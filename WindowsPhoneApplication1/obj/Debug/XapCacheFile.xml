@@ -1,0 +1,10 @@
+﻿<xapCache source="C:\Users\nirmal.thakur\Documents\Visual Studio 2010\Projects\WindowsPhoneApplication1\WindowsPhoneApplication1\Bin\Debug\WindowsPhoneApplication1.xap" wasSigned="False" certificateThumbprint="" TimeStampUrl="" lastWriteTime="7/18/2014 5:01:20 PM">
+  <file source="C:\Users\nirmal.thakur\Documents\Visual Studio 2010\Projects\WindowsPhoneApplication1\WindowsPhoneApplication1\Properties\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="7/12/2014 4:44:28 PM" />
+  <file source="C:\Users\nirmal.thakur\Documents\Visual Studio 2010\Projects\WindowsPhoneApplication1\WindowsPhoneApplication1\obj\Debug\WindowsPhoneApplication1.dll" archivePath="WindowsPhoneApplication1.dll" lastWriteTime="7/18/2014 5:01:20 PM" />
+  <file source="C:\Program Files (x86)\Microsoft SDKs\Windows Phone\v7.0\Libraries\Silverlight\Microsoft.Phone.Controls.dll" archivePath="Microsoft.Phone.Controls.dll" lastWriteTime="9/1/2010 3:51:10 AM" />
+  <file source="C:\Users\nirmal.thakur\Documents\Visual Studio 2010\Projects\WindowsPhoneApplication1\json-dll\Bin\Silverlight\Newtonsoft.Json.Silverlight.dll" archivePath="Newtonsoft.Json.Silverlight.dll" lastWriteTime="8/14/2010 1:55:04 PM" />
+  <file source="C:\Users\nirmal.thakur\Documents\Visual Studio 2010\Projects\WindowsPhoneApplication1\WindowsPhoneApplication1\ApplicationIcon.png" archivePath="ApplicationIcon.png" lastWriteTime="7/12/2014 4:44:28 PM" />
+  <file source="C:\Users\nirmal.thakur\Documents\Visual Studio 2010\Projects\WindowsPhoneApplication1\WindowsPhoneApplication1\Background.png" archivePath="Background.png" lastWriteTime="7/12/2014 4:44:28 PM" />
+  <file source="C:\Users\nirmal.thakur\Documents\Visual Studio 2010\Projects\WindowsPhoneApplication1\WindowsPhoneApplication1\SplashScreenImage.jpg" archivePath="SplashScreenImage.jpg" lastWriteTime="7/12/2014 4:44:28 PM" />
+  <file source="C:\Users\nirmal.thakur\Documents\Visual Studio 2010\Projects\WindowsPhoneApplication1\WindowsPhoneApplication1\Bin\Debug\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="7/18/2014 4:04:23 PM" />
+</xapCache>
